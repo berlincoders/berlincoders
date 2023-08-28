@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ruby on Rails...
+- - 🤔 I’m looking for help with my own project  www.berlincoders.com
+  - feel free to send me a PR!
 
 <p align="center">
   <a href="https://skillicons.dev">
