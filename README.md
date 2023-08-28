@@ -1,6 +1,12 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ruby on Rails...
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,heroku,html,css,postgres,py,rails,ruby" />
+  </a>
+</p>
+
 <!--
 **berlincoders/berlincoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
