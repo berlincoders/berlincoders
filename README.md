@@ -1,5 +1,12 @@
-### Hi there 👋
-- 🌱 I’m currently learning ruby on Rails...
+
+<h2 align="center"><strong>  Hi there 👋</strong></h2>
+
+<h4 align="center">Warm welcome to my GitHub profile</h5>
+<br>
+My name is Romeo, I am a junior front-end/full-stack web developer!
+<br>
+<br>
+
 - - 🤔 I’m looking for help with my own project  feel free to send me a PR!
 
 <h4 align="center">My tech stack:</h4> 
