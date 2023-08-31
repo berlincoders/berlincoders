@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning ruby on Rails...
 - - 🤔 I’m looking for help with my own project  feel free to send me a PR!
 
+<h4 align="center">My tech stack:</h4> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,heroku,html,css,postgres,py,rails,ruby,bootstrap" />
