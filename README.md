@@ -5,7 +5,7 @@
 
 My name is Romeo, I am a junior front-end/full-stack web developer!
 
-- 🔭 I’m currently working with my colleagues [Malte Asmuth](https://github.com/malteasmuth), [Sebastian Pontow](https://github.com/sebaspont), and [The Groosalugg](https://github.com/thegroosalugg) on:
+- 🔭 I’m currently working with my colleagues and friends [Malte Asmuth](https://github.com/malteasmuth), [Sebastián Pont Vergés](https://github.com/sebaspont), and [Victor Loginov](https://github.com/thegroosalugg) on:
 
 - Treasurekeeper app
 - Gamify personal finance
