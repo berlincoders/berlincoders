@@ -5,6 +5,9 @@
 
 My name is Romeo, I am a junior front-end/full-stack web developer!
 
+<br>
+<br>
+
 - 🔭 I’m currently working with my colleagues and friends [Malte Asmuth](https://github.com/malteasmuth), [Sebastián Pont Vergés](https://github.com/sebaspont), and [Victor Loginov](https://github.com/thegroosalugg) on:
 
 - Treasurekeeper app
