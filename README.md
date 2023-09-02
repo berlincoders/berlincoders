@@ -1,18 +1,16 @@
 
-<h2 align="center"><strong>  Hi there 👋</strong></h2>
+<h2 align="center"><strong>Hi there 👋</strong></h2>
 
-<h4 align="center">Warm welcome to my GitHub profile</h5>
-<br>
+<h4 align="center">Warm welcome to my GitHub profile</h4>
+
 My name is Romeo, I am a junior front-end/full-stack web developer!
-<br>
-<br>
 
-- 🔭 I’m currently working  with my collegues @malteasmuth ,
--  Treasurekeeper app,
+- 🔭 I’m currently working with my colleagues  [Malte Asmuth](https://github.com/malteasmuth)
+- Treasurekeeper app
 - Gamify personal finance
-- http://www.treasurekeeper.online
+- [Treasurekeeper Website](http://www.treasurekeeper.online)
 
-<h4 align="center">My tech stack:</h4> 
+<h4 align="center">My tech stack:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,heroku,html,css,postgres,py,rails,ruby,bootstrap" />
