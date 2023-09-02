@@ -7,7 +7,7 @@ My name is Romeo, I am a junior front-end/full-stack web developer!
 <br>
 <br>
 
-- 🔭 I’m currently working  with my collegues on...
+- 🔭 I’m currently working  with my collegues @malteasmuth ,
 -  Treasurekeeper app,
 - Gamify personal finance
 - http://www.treasurekeeper.online
