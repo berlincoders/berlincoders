@@ -16,7 +16,7 @@ My name is Romeo, I am a junior front-end/full-stack web developer!
 <h4 align="center">My tech stack:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,heroku,html,css,postgres,py,rails,ruby,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,heroku,html,css,postgres,py,rails,ruby,bootstrap,js" />
   </a>
 </p>
 
