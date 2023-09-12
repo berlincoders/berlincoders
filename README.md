@@ -13,12 +13,6 @@ My name is Romeo, I am a junior front-end/full-stack web developer!
 - Gamify personal finance
 - [Treasurekeeper Website](http://www.treasurekeeper.online)
 
-<h4 align="center">My tech stack:</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,heroku,html,css,sass,postgres,py,rails,ruby,bootstrap,figma,js" />
-  </a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
