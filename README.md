@@ -6,11 +6,17 @@ My name is Romeo, I am a junior front-end/full-stack web developer!
 <br>
 <br>
 
-🔭 I'm currently working with my colleagues and friends [Malte Asmuth](https://github.com/malteasmuth), [Sebastián Pont Vergés](https://github.com/sebaspont), and [Victor Loginov](https://github.com/thegroosalugg) on:
+Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https://github.com/malteasmuth), [Sebastián Pont Vergés](https://github.com/sebaspont), and [Victor Loginov](https://github.com/thegroosalugg) and myself.
 
-- Treasurekeeper app
-- Gamify personal finance
+We really appreciate your feedback.
+The Treasurekeeper app is designed to gamify personal finance.
+
 - [Treasurekeeper Website](http://www.treasurekeeper.online)
+
+-I'm currently working with my colleagues and friends Malte Asmuth, Sebastián Pont Vergés,  Victor Loginov  and  on:
+
+http://www.aesthetikempire.de/
+
 
 
 
