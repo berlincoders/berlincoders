@@ -14,7 +14,7 @@ The Treasurekeeper app is designed to gamify personal finance.
 <br>
 <br>
 
--I'm currently working with my colleagues and friends Malte Asmuth, Sebastián Pont Vergés,  Victor Loginov  and  on:
+-I'm currently working with my colleagues and friends  Marie Darbois ,Malte Asmuth, Sebastián Pont Vergés,  Victor Loginov  and  on:
 http://www.aesthetikempire.de/
 <br>
 <br>
