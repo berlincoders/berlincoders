@@ -15,7 +15,7 @@ The Treasurekeeper app is designed to gamify personal finance.
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,heroku,html,js,postgres,postman,py,rails,ruby,sass,aws,nodejs)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,heroku,html,js,postgres,postman,py,rails,ruby,sass,aws,nodejs,mysql)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
