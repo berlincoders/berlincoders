@@ -13,22 +13,13 @@ The Treasurekeeper app is designed to gamify personal finance.
 - [Treasurekeeper Website](http://www.treasurekeeper.online)
 <br>
 <br>
-
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,heroku,html,js,postgres,postman,py,rails,ruby,sass,aws,nodejs" />
-   
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,heroku,html,js,postgres,postman,py,rails,ruby,sass,aws,nodejs,flutter&perline=11)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/berlincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berlincoders" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berlincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berlincoders" height="30" width="30" /></a>
 </p>
 
 
