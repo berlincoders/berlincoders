@@ -9,7 +9,7 @@ My name is Romeo, I am a junior front-end/full-stack web developer!
 Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https://github.com/malteasmuth), [Sebastián Pont Vergés](https://github.com/sebaspont), [Victor Loginov](https://github.com/thegroosalugg) and myself.
 
 
-- [Treasurekeeper Website](http://www.treasurekeeper.online) The Treasurekeeper app is designed to gamify personal finance.
+- [Treasurekeeper App](http://www.treasurekeeper.online) The Treasurekeeper app is designed to gamify personal finance.
 - [MySpaceShip ](https://myspaceship-9e73f7ca505b.herokuapp.com/) Airbnb clone renting spaceships , 
 
 
