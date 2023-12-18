@@ -10,7 +10,7 @@ Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https
 
 
 - [Treasurekeeper App](http://www.treasurekeeper.online) The Treasurekeeper app is designed to gamify personal finance.
-- [MySpaceShip ](https://github.com/berlincoders/MySpaceShip) Airbnb clone renting spaceships , 
+- [MySpaceShip ](https://myspaceship-9e73f7ca505b.herokuapp.com/) Airbnb clone renting spaceships , 
 
 
 <br>
