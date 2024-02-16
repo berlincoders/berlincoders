@@ -17,16 +17,21 @@ Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3> 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,heroku,html,js,postgres,postman,py,rails,ruby,sass,aws,nodejs,mysql,pug,webpack" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,heroku,html,js,postgres,postman,py,rails,ruby,sass,nodejs,mysql,pug,webpack" />
+  </a>
+</p>
+<h3 align="left">Dev Ops</h3> 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,prometheus,grafana,aws" />
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berlincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berlincoders" height="30" width="30" /></a>
 </p>
-
 
 
 
