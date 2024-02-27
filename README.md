@@ -25,7 +25,7 @@ Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https
 <h3 align="left">Dev Ops</h3> 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,prometheus,grafana,aws" />
+    <img src="https://skillicons.dev/icons?i=docker,jenkins,prometheus,grafana,aws" />
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
