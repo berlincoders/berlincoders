@@ -11,15 +11,9 @@ Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https
 
 - [Treasurekeeper App](http://www.treasurekeeper.online)         Gamify personal finance.            ⚠️   It only takes 5-10 seconds for AutoIdle to restart an app.
 - [MySpaceShip ](https://myspaceship-9e73f7ca505b.herokuapp.com/) Airbnb clone renting spaceships ,  ⚠️   It only takes 5-10 seconds for AutoIdle to restart an app.
-- RealEstate   ---> work in progress !
 
 - ![Cat GIF](https://github.com/berlincoders/berlincoders/blob/main/CI.gif)
 
-
-
-
-<br>
-<br>
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left">
   <a href="https://skillicons.dev">
