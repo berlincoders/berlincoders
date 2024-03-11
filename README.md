@@ -2,7 +2,7 @@
 
 <h4 align="center">Warm welcome to my GitHub profile</h4>
 <br>
-My name is Romeo, I am a junior back-end/full-stack web developer!
+My name is Romeo, I am a unior backend/fullstack web developer!
 <br>
 <br>
 
