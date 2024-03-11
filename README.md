@@ -8,9 +8,8 @@ My name is Romeo, I am a junior front-end/full-stack web developer!
 
 Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https://github.com/malteasmuth), [Sebastián Pont Vergés](https://github.com/sebaspont), [Victor Loginov](https://github.com/thegroosalugg) and myself.
 
-
-- [Treasurekeeper App](http://www.treasurekeeper.online)         Gamify personal finance.            ⚠️   It only takes 5-10 seconds for AutoIdle to restart an app.
-- [MySpaceShip ](https://myspaceship-9e73f7ca505b.herokuapp.com/) Airbnb clone renting spaceships ,  ⚠️   It only takes 5-10 seconds for AutoIdle to restart an app.
+- [Treasurekeeper](http://www.treasurekeeper.online), a web app to gamify your finances! ⚠️ Please wait 5-10 seconds for AutoIdle to restart the app.
+- [MySpaceship](https://myspaceship-9e73f7ca505b.herokuapp.com/), an Airbnb clone for renting spaceships! ⚠️ Please wait 5-10 seconds for AutoIdle to restart the app.
 - I’m currently working on my ...CI/CD Portfolio
 
 - <img src="https://github.com/berlincoders/berlincoders/blob/main/CI.gif" width="709" height="310">
