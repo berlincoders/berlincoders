@@ -10,9 +10,7 @@ Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https
 
 - [Treasurekeeper](http://www.treasurekeeper.online), a web app to gamify your finances! ⚠️ Please wait 5-10 seconds for AutoIdle to restart the app.
 - [MySpaceship](https://myspaceship-9e73f7ca505b.herokuapp.com/), an Airbnb clone for renting spaceships! ⚠️ Please wait 5-10 seconds for AutoIdle to restart the app.
-- I’m currently working on my ...CI/CD Portfolio
 
-- <img src="https://github.com/berlincoders/berlincoders/blob/main/CI.gif" width="709" height="310">
 
 
 <h3 align="left">Languages and Tools:</h3> 
