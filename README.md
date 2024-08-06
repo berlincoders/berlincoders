@@ -11,7 +11,7 @@ Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https
 - [Treasurekeeper](https://github.com/berlincoders/TreasureKeeper), a web app to gamify your finances! ⚠️ 🌱 Running locally to cut carbon emissions!
 - [MySpaceship](https://github.com/berlincoders/MySpaceShip), an Airbnb clone for renting spaceships! ⚠️  🌱 Running locally to cut carbon emissions!
 - NFLKL , a solo  M E R N project (MongoDB, Express, React, Node), work in progress..
-- Skullbug, coming soon ...
+- [Skullbug](https://www.skullbug.dev/), coming soon ...
 
   
 
