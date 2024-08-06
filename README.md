@@ -8,8 +8,8 @@ My name is Romeo, I am a Junior backend/fullstack web developer!
 
 Check out the Treasurekeeper app, made by the amazing team: [Malte Asmuth](https://github.com/malteasmuth), [Sebastián Pont Vergés](https://github.com/sebaspont), [Victor Loginov](https://github.com/thegroosalugg) and myself.
 
-- [Treasurekeeper](https://github.com/berlincoders/TreasureKeeper), a web app to gamify your finances! ⚠️ 🌱 Running locally to reduce our carbon footprint and help save the planet!
-- [MySpaceship](https://github.com/berlincoders/MySpaceShip), an Airbnb clone for renting spaceships! ⚠️ 🌱 Running locally to reduce our carbon footprint and help save the planet!
+- [Treasurekeeper](https://github.com/berlincoders/TreasureKeeper), a web app to gamify your finances! ⚠️ 🌱 Running locally to cut carbon emissions!
+- [MySpaceship](https://github.com/berlincoders/MySpaceShip), an Airbnb clone for renting spaceships! ⚠️  🌱 Running locally to cut carbon emissions!
 - NFLKL , a solo  M E R N project (MongoDB, Express, React, Node), work in progress..
 
   
